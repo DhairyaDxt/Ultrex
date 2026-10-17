@@ -6,6 +6,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![ML-Agents](https://img.shields.io/badge/ML--Agents-4.1.0-0A84FF)
+![PPO](https://img.shields.io/badge/algorithm-PPO-8A2BE2)
 ![CPU only](https://img.shields.io/badge/runs_on-CPU-555555)
 ![Offline](https://img.shields.io/badge/network-not_needed_after_install-555555)
 
